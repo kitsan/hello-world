@@ -1,2 +1,2 @@
 ﻿Hello
-sukinakoto
+Guten Tag!
